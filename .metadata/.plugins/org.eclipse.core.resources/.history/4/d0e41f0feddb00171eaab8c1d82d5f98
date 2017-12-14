@@ -1,0 +1,5 @@
+package com.internousdev.sato.action;
+
+public class LoginAction {
+
+}
